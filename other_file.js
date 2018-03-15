@@ -1,1 +1,2 @@
-console.log(name)
+var index = require("./indesx.js")
+console.log(index.name)
